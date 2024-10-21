@@ -1,1 +1,1 @@
-# lab1-sdc
+# lab1-scd
